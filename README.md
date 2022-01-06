@@ -53,6 +53,6 @@ Other tools:
 [email]: mailto:mjahidulalam@gmail.com
 [linkedin]: https://linkedin.com/in/mjahidulalam
 
-[F1Dash]: https://github.com/mjahidulalam/TSP-Visualiser
+[F1Dash]: https://dashf1.herokuapp.com/
 [TSP]: https://github.com/mjahidulalam/TSP-Visualiser
 [PSC]: https://github.com/mjahidulalam/PragueStudentCenter
