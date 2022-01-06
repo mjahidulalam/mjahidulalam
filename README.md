@@ -20,10 +20,10 @@
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
 <img align="left" alt="Django" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png"/>
 <img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
 <img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/stickers/100/000000/github.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
