@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## I'm an Engineer, Developer, and Data Analyst!
-### I have a Bachelors degree in Mechanical Engineering and recently graduated with a Masters of Applied Science in Industrial Engineering with a focus on Operations Research. 
+I have a Bachelors degree in Mechanical Engineering and recently graduated with a Masters of Applied Science in Industrial Engineering with a focus on Operations Research. 
 
 ### Here are some projects I've been working on: 
 
