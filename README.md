@@ -25,7 +25,7 @@ I've been hard at working building my skillset in Data Analytics through online 
 [<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>][null]
 [<img align="left" alt="Plotly" width="26px" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg"/>][null]
 [<img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][null]
-[<img align="left" alt="Scikit Learn" width="26px" src="https://iconape.com/scikit-learn-logo-logo-icon-svg-png.html"/>][null]
+[<img align="left" alt="Scikit Learn" width="26px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"/>][null]
 [<img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>][null]
 [<img align="left" alt="Django" width="26px" style="filter: brightness(150%);" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"/>][null]
 [<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>][null]
