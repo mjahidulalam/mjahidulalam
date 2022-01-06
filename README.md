@@ -19,7 +19,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
-<img align="left" alt="Django" width="26px" style="filter: brightness(150%);" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png"/>
+<img align="left" alt="Django" width="26px" style="filter: brightness(150%);" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"/>
 <img align="left" alt="Plotly" width="26px" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg"/>
 <img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
 <img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
