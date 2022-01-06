@@ -26,7 +26,9 @@
 [<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>][cssplaylist]
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>][cssplaylist]
 [<img align="left" alt="Django" width="26px" src="https://img.icons8.com/windows/32/000000/django.png"/>][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][webdevplaylist]
+[<img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>][webdevplaylist]
+[<img align="left" alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
