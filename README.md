@@ -7,9 +7,9 @@ I have a Bachelors degree in Mechanical Engineering and recently graduated with 
 
 ### Here are some projects I've been working on: 
 
-- [Formula 1 Dash Dashboard][TSP]
+- [Formula 1 Dash Dashboard][F1Dash]
 - [Travelling Salesperson Problem Visualizer][TSP]
-- [Prague Student Center][TSP]
+- [Prague Student Center][PSC]
 
 ### Languages and Tools:
 
