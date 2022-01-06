@@ -7,7 +7,7 @@
 
 ### Here are some projects I've been working on: 
 
-- Formula 1 Dash dashboard
+- Formula 1 Dash Dashboard
 - Travelling Salesperson Problem Visualizer
 - Prague Student Center
 
@@ -26,11 +26,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
+<br />
+
 ### Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Email | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][email]
+[<img align="left" alt="Website" width="22px" src="https://img.icons8.com/color/48/000000/web.png"/>][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="Email" width="22px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>][email]
 
 <br />
 <br />
