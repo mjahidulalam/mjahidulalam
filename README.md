@@ -47,6 +47,11 @@ Other tools:
 
 </details>
 
+### Connect with me:
+
+[<img align="left" alt="Website" width="26px" src="https://img.icons8.com/color/48/000000/web.png"/>][website]
+[<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="Email" width="26px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>][email]
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -55,14 +60,7 @@ Other tools:
 
 </details>
 
-<br/>
-<br/>
 
-### Connect with me:
-
-[<img align="left" alt="Website" width="26px" src="https://img.icons8.com/color/48/000000/web.png"/>][website]
-[<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="Email" width="26px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>][email]
 
 
 [null]: #
