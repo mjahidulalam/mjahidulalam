@@ -32,6 +32,7 @@ I've been hard at working building my skillset in Data Analytics through online 
 [<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>][null]
 [<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/stickers/100/000000/github.png"/>][null]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][null]
+
 <br>
 Other tools:
 - IBM CPLEX
