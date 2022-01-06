@@ -47,11 +47,12 @@ Other tools:
 [<img align="left" alt="Email" width="26px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>][email]
 
 <br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mjahidulalam&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jahidul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mjahidulalam&show_icons=true&hide_border=true" />
 
 </details>
 
