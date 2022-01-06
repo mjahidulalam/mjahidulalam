@@ -24,15 +24,16 @@
 <img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/plumpy/24/000000/github.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://img.icons8.com/color/48/000000/web.png"/>][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="Email" width="22px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>][email]
+[<img align="left" alt="Website" width="26px" src="https://img.icons8.com/color/48/000000/web.png"/>][website]
+[<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="Email" width="26px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>][email]
 
 <br />
 <br />
