@@ -38,7 +38,6 @@ Other tools:
 - IBM CPLEX
 - ARENA Simulation
 
-<br />
 
 ### Connect with me:
 
