@@ -52,7 +52,7 @@ Other tools:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jahidul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mjahidulalam&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="Jahidul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mjahidulalam&show_icons=true&hide_border=true&theme=dark&count_private=true" />
 
 </details>
 
