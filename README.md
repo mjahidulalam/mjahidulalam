@@ -40,11 +40,12 @@ Other tools:
 - [ARENA Simulation](https://www.rockwellautomation.com/en-us/products/software/arena-simulation.html)
 
 
-### Connect with me:
+<details>
+  <summary>:zap: Languages Used</summary>
 
-[<img align="left" alt="Website" width="26px" src="https://img.icons8.com/color/48/000000/web.png"/>][website]
-[<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="Email" width="26px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>][email]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjahidulalam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 <br />
 <br />
@@ -56,13 +57,11 @@ Other tools:
 
 </details>
 
-<details>
-  <summary>:zap: Languages Used</summary>
+### Connect with me:
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjahidulalam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
+[<img align="left" alt="Website" width="26px" src="https://img.icons8.com/color/48/000000/web.png"/>][website]
+[<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="Email" width="26px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>][email]
 
 
 [null]: #
