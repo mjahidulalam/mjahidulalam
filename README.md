@@ -1,6 +1,6 @@
 ### Hi there, I'm Jahidul
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://138.197.140.162/)
+[![Website](https://img.shields.io/website?label=mjahidul.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://138.197.140.162/)
 
 ## I'm an Engineer, Developer, and Data Analyst!
 I have a Bachelors degree in Mechanical Engineering and recently graduated with a Masters of Applied Science in Industrial Engineering with a focus on Operations Research. 
