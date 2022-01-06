@@ -36,8 +36,8 @@ I've been hard at working building my skillset in Data Analytics through online 
 <br/>
 
 Other tools:
-- IBM CPLEX
-- ARENA Simulation
+- [IBM CPLEX](https://www.ibm.com/analytics/cplex-optimizer)
+- [ARENA Simulation](https://www.rockwellautomation.com/en-us/products/software/arena-simulation.html)
 
 
 ### Connect with me:
