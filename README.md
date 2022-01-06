@@ -53,6 +53,8 @@ Other tools:
 [<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="Email" width="26px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>][email]
 
+<br/>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
