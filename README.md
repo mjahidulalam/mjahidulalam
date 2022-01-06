@@ -48,6 +48,13 @@ Other tools:
 
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mjahidulalam&show_icons=true&hide_border=true" />
+
+</details>
+
 [null]: #
 [website]: http://138.197.140.162/
 [email]: mailto:mjahidulalam@gmail.com
