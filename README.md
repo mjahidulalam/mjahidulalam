@@ -6,7 +6,7 @@
 I have a Bachelors degree in Mechanical Engineering and recently graduated with a Masters of Applied Science in Industrial Engineering with a focus on Operations Research. 
 I am open to work and looking for opportunities in Data Science and Analytics where I can be involved with solving interesting and challenging problems.
 
-I have 2 years of experience in academic research and spent 1 year working in a major utilities company in Qatar. 
+I have 2 years of experience in academic research and spent 1 year working in a major utilities company in Qatar and a Plant Operator. 
 I've been hard at working building my skillset in Data Analytics through online courses and personal projects.
 
 ### Here are some projects I've been working on: 
