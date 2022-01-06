@@ -56,6 +56,8 @@ Other tools:
 
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjahidulalam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [null]: #
 [website]: http://138.197.140.162/
 [email]: mailto:mjahidulalam@gmail.com
