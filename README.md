@@ -14,18 +14,18 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][null]
-<img align="left" alt="Jupyter" width="26px" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
-<img align="left" alt="Plotly" width="26px" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg"/>
-<img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
-<img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img align="left" alt="Django" width="26px" style="filter: brightness(150%);" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"/>
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/stickers/100/000000/github.png"/>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+[<img align="left" alt="Jupyter" width="26px" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>][null]
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>][null]
+[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>][null]
+[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>][null]
+[<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>][null]
+[<img align="left" alt="Plotly" width="26px" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg"/>][null]
+[<img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][null]
+[<img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>][null]
+[<img align="left" alt="Django" width="26px" style="filter: brightness(150%);" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"/>][null]
+[<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>][null]
+[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/stickers/100/000000/github.png"/>][null]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][null]
 
 <br />
 
@@ -89,7 +89,7 @@
 </details>
 
 [null]: #
-[website]: https://codeSTACKr.com
+[website]: http://138.197.140.162/
 [email]: mailto:mjahidulalam@gmail.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
