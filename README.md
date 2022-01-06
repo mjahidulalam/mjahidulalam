@@ -4,7 +4,7 @@
 
 ## I'm an Engineer, Developer, and Data Analyst!
 I have a Bachelors degree in Mechanical Engineering and recently graduated with a Masters of Applied Science in Industrial Engineering with a focus on Operations Research. 
-I am open to work and looking for roles in Data Science and Analytics where I can be involved with solving interesting and challenginf problems.
+I am open to work and looking for opportunities in Data Science and Analytics where I can be involved with solving interesting and challenging problems.
 
 ### Here are some projects I've been working on: 
 
