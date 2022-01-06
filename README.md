@@ -9,8 +9,8 @@
 ### Here are some projects I've been working on: 
 
 - [Formula 1 Dash Dashboard][TSP]
-- Travelling Salesperson Problem Visualizer [<img src="https://img.icons8.com/pastel-glyph/64/000000/external-link--v1.png"/>][TSP]
-- Prague Student Center [<img src="https://img.icons8.com/pastel-glyph/64/000000/external-link--v1.png"/>][TSP]
+- [Travelling Salesperson Problem Visualizer][TSP]
+- [Prague Student Center][TSP]
 
 ### Languages and Tools:
 
@@ -93,4 +93,7 @@
 [website]: http://138.197.140.162/
 [email]: mailto:mjahidulalam@gmail.com
 [linkedin]: https://linkedin.com/in/mjahidulalam
+
+[F1Dash]: https://github.com/mjahidulalam/TSP-Visualiser
 [TSP]: https://github.com/mjahidulalam/TSP-Visualiser
+[PSC]: https://github.com/mjahidulalam/TSP-Visualiser
