@@ -7,9 +7,9 @@
 
 ### Here are some projects I've been working on: 
 
-- Formula 1 Dash Dashboard
-- Travelling Salesperson Problem Visualizer
-- Prague Student Center
+- Formula 1 Dash Dashboard [<img src="https://img.icons8.com/pastel-glyph/64/000000/external-link--v1.png"/>][TSP]
+- Travelling Salesperson Problem Visualizer [<img src="https://img.icons8.com/pastel-glyph/64/000000/external-link--v1.png"/>][TSP]
+- Prague Student Center [<img src="https://img.icons8.com/pastel-glyph/64/000000/external-link--v1.png"/>][TSP]
 
 ### Languages and Tools:
 
@@ -91,12 +91,5 @@
 [null]: #
 [website]: http://138.197.140.162/
 [email]: mailto:mjahidulalam@gmail.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/mjahidulalam
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[TSP]: https://github.com/mjahidulalam/TSP-Visualiser
