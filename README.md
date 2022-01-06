@@ -6,6 +6,11 @@
 I have a Bachelors degree in Mechanical Engineering and recently graduated with a Masters of Applied Science in Industrial Engineering with a focus on Operations Research. 
 I am open to work and looking for opportunities in Data Science and Analytics where I can be involved with solving interesting and challenging problems.
 
+<br>
+
+I have 2 years of experience in academic research and spent 1 year working in a major utilities company in Qatar. 
+I've been hard at working building my skillset in Data Analytics through online courses and personal projects.
+
 ### Here are some projects I've been working on: 
 
 - [Formula 1 Dash Dashboard][F1Dash]
@@ -27,6 +32,10 @@ I am open to work and looking for opportunities in Data Science and Analytics wh
 [<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>][null]
 [<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/stickers/100/000000/github.png"/>][null]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][null]
+
+Other tools:
+- IBM CPLEX
+- ARENA Simulation
 
 <br />
 
