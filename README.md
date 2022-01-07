@@ -40,7 +40,7 @@ Other tools:
 - [ARENA Simulation](https://www.rockwellautomation.com/en-us/products/software/arena-simulation.html)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjahidulalam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjahidulalam&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me:
