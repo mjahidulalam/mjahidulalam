@@ -59,7 +59,7 @@ Other tools:
 
 </details>
 
-![](https://komarev.com/ghpvc/?mjahidulalam)
+![](https://komarev.com/ghpvc/?username=mjahidulalam)
 
 
 
