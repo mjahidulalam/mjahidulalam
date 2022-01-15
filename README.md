@@ -52,6 +52,8 @@ Other tools:
 <br/>
 <br/>
 
+![](https://komarev.com/ghpvc/?username=mjahidulalam)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -59,7 +61,7 @@ Other tools:
 
 </details>
 
-![](https://komarev.com/ghpvc/?username=mjahidulalam)
+
 
 
 
