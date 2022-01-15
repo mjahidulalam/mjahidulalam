@@ -53,6 +53,8 @@ Other tools:
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=mjahidulalam)
+![Visitor Count](https://profile-counter.glitch.me/mjahidulalam/count.svg)
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
