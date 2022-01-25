@@ -1,6 +1,6 @@
 # Hi there, I'm Jahidul
 
-[![Website](https://img.shields.io/website?label=mjahidul.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://138.197.140.162/)
+<!-- [![Website](https://img.shields.io/website?label=mjahidul.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://138.197.140.162/) -->
 
 ## I'm an Engineer, Developer, and Data Analyst!
 I have a Bachelors degree in Mechanical Engineering and recently graduated with a Masters of Applied Science in Industrial Engineering with a focus on Operations Research. 
@@ -11,7 +11,7 @@ I've been hard at working building my skillset in Data Analytics through online 
 
 ### Here are some projects I've been working on: 
 
-- [Formula 1 Dash Dashboard][F1Dash]
+- [Formula 1 Stats Dashboard][F1Dash]
 - [Travelling Salesperson Problem Visualizer][TSP]
 - [Prague Student Center][PSC]
 
