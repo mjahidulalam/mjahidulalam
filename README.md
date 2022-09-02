@@ -67,7 +67,6 @@ Other tools:
 
 
 [null]: #
-[website]: http://138.197.140.162/
 [email]: mailto:mjahidulalam@gmail.com
 [linkedin]: https://linkedin.com/in/mjahidulalam
 
