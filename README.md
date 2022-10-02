@@ -70,5 +70,5 @@ Other tools:
 [linkedin]: https://linkedin.com/in/mjahidulalam
 
 [F1Dash]: https://dashf1.herokuapp.com/
-[TSP]: https://github.com/mjahidulalam/TSP-Visualiser
+[TSP]: https://github.com/mjahidulalam/tsp-visualizer
 [PSC]: https://github.com/mjahidulalam/PragueStudentCenter
