@@ -69,6 +69,6 @@ Other tools:
 [email]: mailto:mjahidulalam@gmail.com
 [linkedin]: https://linkedin.com/in/mjahidulalam
 
-[F1Dash]: https://dashf1.herokuapp.com/
+[F1Dash]: https://seashell-app-e6nsw.ondigitalocean.app/
 [TSP]: https://github.com/mjahidulalam/tsp-visualizer
 [PSC]: https://github.com/mjahidulalam/PragueStudentCenter
