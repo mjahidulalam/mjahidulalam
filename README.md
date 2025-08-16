@@ -16,10 +16,10 @@ I've been hard at working building my skillset in Data Analytics through online 
 - [Prague Student Center][PSC]
 
 ### Core Skills
-Simulation & Optimization: AnyLogic, ARENA, CPLEX, OR-Tools
-Programming & Data: Python, Java, JavaScript SQL, VBA, APIs, Snowflake
-Visualization & Reporting: Tableau, Power BI, Plotly Dash, Streamlit, Automated Dashboards
-Collaboration: Stakeholder engagement, product lifecycle, design/dev teams
+- **Simulation & Optimization:** AnyLogic, ARENA, CPLEX, OR-Tools
+- **Programming & Data:** Python, Java, JavaScript SQL, VBA, APIs, Snowflake
+- **Visualization & Reporting:** Tableau, Power BI, Plotly Dash, Streamlit, Automated Dashboards
+- **Collaboration:** Stakeholder engagement, product lifecycle, design/dev teams
 
 <br/>
 <br/>
