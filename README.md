@@ -4,10 +4,7 @@
 
 ## I'm an Engineer, Developer, and Data Scientist!
 Simulation Consultant with 3+ years of experience developing discrete event and agent-based models (AnyLogic, ARENA) for supply chain, logistics, and infrastructure optimization. 
-Skilled in Python, SQL, and system architecture, with expertise in automation, visualization, and stakeholder engagement. Proven track record delivering simulation-driven insights 
-
-I have 2 years of experience in academic research and spent 1 year working in a major utilities company in Qatar as a Plant Operator. 
-I've been hard at working building my skillset in Data Analytics through online courses and personal projects.
+Skilled in Python, SQL, and system architecture, with expertise in automation, visualization, and stakeholder engagement. Proven track record delivering simulation-driven insights.
 
 ### Here are some projects I've been working on: 
 
