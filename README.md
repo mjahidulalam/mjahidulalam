@@ -49,5 +49,5 @@ More on my [portfolio](https://mjahidulalam.github.io/portfolio/).
 [linkedin]: https://linkedin.com/in/mjahidulalam
 
 [F1Dash]: https://seashell-app-e6nsw.ondigitalocean.app/
-[TSP]: https://github.com/mjahidulalam/tsp-visualizer
+[TSP]: https://mjahidulalam.github.io/tsp-visualizer/
 [PSC]: https://github.com/mjahidulalam/PragueStudentCenter
