@@ -1,20 +1,23 @@
 # Hi there, I'm Jahidul
 
-<!-- [![Website](https://img.shields.io/website?label=mjahidul.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://138.197.140.162/) -->
+## I'm a Data Scientist in Toronto working with simulation, optimization, and digital twins.
 
-## I'm an Engineer, Developer, and Data Scientist!
-Simulation Consultant with 3+ years of experience developing discrete event and agent-based models (AnyLogic, ARENA) for supply chain, logistics, and infrastructure optimization. 
+Sr. Simulation Scientist at [Fulfillment IQ](https://fulfillmentiq.com/), building discrete-event simulation and digital twin capabilities for warehouse and fulfillment operations. Previously a Simulation Consultant at Simwell and an Operations Analyst at MISIM, with 4+ years of experience developing discrete-event and agent-based models (AnyLogic, ARENA, SimPy) for supply chain, logistics, and mining.
 Skilled in Python, SQL, and system architecture, with expertise in automation, visualization, and stakeholder engagement. Proven track record delivering simulation-driven insights.
 
-### Here are some projects I've been working on: 
+🌐 **Portfolio:** [mjahidulalam.github.io/portfolio](https://mjahidulalam.github.io/portfolio/)
+
+### Here are some projects I've been working on:
 
 - [Formula 1 Stats Dashboard][F1Dash]
 - [Travelling Salesperson Problem Visualizer][TSP]
 - [Prague Student Center][PSC]
 
+More on my [portfolio](https://mjahidulalam.github.io/portfolio/).
+
 ### Core Skills
-- **Simulation & Optimization:** AnyLogic, ARENA, CPLEX, OR-Tools
-- **Programming & Data:** Python, Java, JavaScript SQL, VBA, APIs, Snowflake
+- **Simulation & Optimization:** AnyLogic, ARENA, SimPy, CPLEX, OR-Tools
+- **Programming & Data:** Python, Java, JavaScript, SQL, VBA, APIs, Snowflake
 - **Visualization & Reporting:** Tableau, Power BI, Plotly Dash, Streamlit, Automated Dashboards
 - **Collaboration:** Stakeholder engagement, product lifecycle, design/dev teams
 
@@ -23,9 +26,9 @@ Skilled in Python, SQL, and system architecture, with expertise in automation, v
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjahidulalam&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ### Connect with me:
 
+[<img align="left" alt="Portfolio" width="26px" src="https://img.icons8.com/fluency/48/000000/internet.png"/>][portfolio]
 [<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="Email" width="26px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>][email]
 
@@ -41,12 +44,7 @@ Skilled in Python, SQL, and system architecture, with expertise in automation, v
 
 </details>
 
-
-
-
-
-
-[null]: #
+[portfolio]: https://mjahidulalam.github.io/portfolio/
 [email]: mailto:mjahidulalam@gmail.com
 [linkedin]: https://linkedin.com/in/mjahidulalam
 
